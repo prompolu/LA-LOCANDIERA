@@ -1,0 +1,9 @@
+.DS_Store
+
+# raw Instagram downloads (web-ready crops live in public/img)
+public/ig/
+public/logo-*.png
+
+# reference material and old draft, not part of the site
+qissa-design-extraction/
+_draft-v1/
